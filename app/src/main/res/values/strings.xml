@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Impelementasi-onSavedInstancState</string>
+    <string name="length">length</string>
+    <string name="width">width</string>
+    <string name="height">height</string>
+    <string name="calculate">hitung</string>
+    <string name="result">hasil</string>
+</resources>
